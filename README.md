@@ -25,7 +25,6 @@
 <p float="left" align= "center">
   <img height="250" src="https://user-images.githubusercontent.com/118773074/218563918-b0b15b59-f5f5-4b05-8a0c-e7309192ad2e.png">
   <img height="250" src="file:///C:/Users/aNdR%C3%89/OneDrive/%C3%81rea%20de%20Trabalho/Aula%2017/portfolio/thumbnail/git.png">
-  <img height="250" src="https://user-images.githubusercontent.com/118773074/218887501-1920a2a6-a673-4498-899b-3509bbe64c15.png">
 </p>
 
 <br><br>
